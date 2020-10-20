@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.description  = "Rounded framework is a library to create custom corner for your UIView component."
 
   # Replace value from spec.homepage with your own git link that setup for the project
-  spec.homepage     = "https://github.com/AdaGOP/RoundedFramework"
+  spec.homepage     = "https://github.com/AdaGOP/CustomRoundedZein"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
   # spec.license      = "MIT (example)"
@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   # spec.tvos.deployment_target = "9.0"
 
   # Replace value of source with your github link
-  spec.source       = { :git => "https://github.com/AdaGOP/RoundedFramework.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/AdaGOP/CustomRoundedZein.git", :tag => "#{spec.version}" }
 
   # Replace value of source file with your Path
   spec.source_files  = "CustomRoundedFramework/**/*.{swift}"
